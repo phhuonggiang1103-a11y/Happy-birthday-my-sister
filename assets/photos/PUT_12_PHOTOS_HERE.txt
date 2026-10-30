@@ -1,0 +1,1 @@
+Place anh1.jpg through anh12.jpg here. If using another extension, update js/gallery.js.

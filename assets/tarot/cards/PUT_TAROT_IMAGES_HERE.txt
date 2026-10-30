@@ -1,0 +1,1 @@
+Add images matching each card's image path in assets/tarot/cards.json. The interface works with fallback art when images are absent.

@@ -1,0 +1,1 @@
+When recorded, place your video here as video.mp4 (H.264 recommended), or update index.html to match.
